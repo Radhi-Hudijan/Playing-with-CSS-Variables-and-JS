@@ -2,7 +2,7 @@
   to learn more check out https://github.com/hackyourfuturebelgium/javascript-30
 -->
 
-# (Playing with CSS Variables and JS)
+# Playing with CSS Variables and JS
 
 <!-- describe the project -->
 
